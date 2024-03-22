@@ -25,6 +25,8 @@ export const Section = () => {
 
 
   return (
-    <SectionToShow/>
+    <div id="section">
+      <SectionToShow/>
+    </div>
   )
 }
